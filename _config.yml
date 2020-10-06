@@ -1,0 +1,27 @@
+# Setup
+title:        Robert Loveridge
+tagline:      Senior Manager, Global CXM Services Operations & Training
+baseurl:      ""
+paginate:     1
+
+# About/contact
+author:
+  name:       Robert Loveridge
+  url:        http://robertloveridge.co.uk
+  location:   Allesley Park, Coventry
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Others
+markdown: kramdown
+include: ['_pages']
+future: true
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+
+theme: jekyll-theme-cayman
