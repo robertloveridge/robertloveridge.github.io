@@ -4,7 +4,7 @@ title: Curriculum Vitae
 permalink: /curriculum_vitae/
 ---
 
-Senior Manager, Global CXM Services Operations & Training at Upland Software, previously Head of Services for CXM EMEA. 12+ years experience in software development, line management of multiple teams and mentoring developers.
+A Solutions Architect at Gainsight with 15+ years experience in solution design, product management, software development and line management of multiple teams.
 
 I'm highly experienced in developing custom reporting and data integrations, having worked with many organisations on delivering technical solutions to real business challenges and goals.
 
