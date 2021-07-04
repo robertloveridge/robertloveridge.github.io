@@ -17,11 +17,17 @@ I enjoy mentoring, problem solving and motivating myself, which I feel plays a k
 
 # Work Experience
 
+Solutions Architect
+------
+**Gainsight**
+
+**July 2021 - Present**
+
 Senior Manager, Global CXM Services Operations & Training
 ------
 **Upland Software, CXM Global**
 
-**May 2020 - Present**
+**May 2020 - July 2021**
 
 Line Management of the training team for the Global Services department. Maintain overall quality of all training programmes, including LMS and Webinars.
 

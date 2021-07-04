@@ -6,13 +6,13 @@ permalink: /about/
 
 <img src="../images/me.png" alt="Robert Loveridge" style="border-radius: 50%; width: 30%; float:left; margin: 20px;">
 
-I am currently a Senior Manager at Upland Software, working in the Global CXM Services Operations team. I had previously worked as the Head of Services at Upland Software CXM EMEA and I have 12+ years experience in software development, including line management of multiple teams and mentoring junior developers.
+I am currently working for Gainsight as a Solutions Architect. I have 15+ years experience in solution design, product management, software development and line management of multiple teams.
 
-As Head of Services, I managed a department in EMEA from our Coventry office, my department had 5 teams (19 people in total) and I reported to the General Manager EMEA.
+Prior to working at Gainsight, I was the Head of Services at Upland Software where I managed the department in EMEA from our Coventry office. My department had 5 teams (19 people in total) and I reported to the General Manager EMEA.
 
 In a previous role (Product Management Team Lead) at Adestra, I worked with the Head of Product Management and COO on the product roadmap, facilitating meetings with the commercial teams every month so they were kept up-to-date on the progress.
 
-More recently at Upland, my team has revenue targets to meet and my main focus is making sure that the projects we are managing are delivered on time and on budget. I act as escalation point for all clients who interact with us.
+At Upland, my team had revenue targets to meet and my main focus was making sure that the projects we were managing were delivered on time and on budget. I acted as an escalation point for all clients who interacted with the team.
 
 I have a software development background using Perl programming language and PostgreSQL database, Git and Subversion for Version Control, JIRA, Confluence and BitBucket for development framework and sprint planning.
 
