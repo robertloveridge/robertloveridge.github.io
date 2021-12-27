@@ -45,8 +45,9 @@ Head of Services
 
 **March 2019 – May 2020 (1 year 3 months)**
 
-Utilising my experience with Adestra and Rant & Rave, I ran the Services team for Upland Software in EMEA. Some of my responsibilities were:
+Utilising my experience with Adestra and Rant & Rave, I ran the Services team for Upland Software in EMEA. When Upland Software acquired Adestra and Rant & Rave, I was involved in the employee consultations, so I have first hand experience with detailing out organisational changes in a sensitive manner.
 
+ * Managed a department with 5 teams; Technical Services, Project Management, Training, Digital Design and Insights
  * Manage the recruitment and grow the services department
  * Manage financials and key metrics
  * Provide continuous feedback to managers in my team, including annual appraisals
