@@ -24,4 +24,4 @@ exclude:
   - Gemfile.lock
   - vendor
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
