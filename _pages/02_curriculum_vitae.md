@@ -23,6 +23,12 @@ Solutions Architect
 
 **July 2021 - Present**
 
+As a Solutions Architect at Gainsight, I work with new and existing clients to align Gainsight features & functionality to best support their CS strategy, driving towards achievement of desired outcomes.
+
+Clients consult me on best practices for Gainsight and I help them to define architectural and data structure to support those requirements.
+
+Aside from consulting, I also act as a Gainsight Administrator for some clients.
+
 Senior Manager, Global CXM Services Operations & Training
 ------
 **Upland Software, CXM Global**
