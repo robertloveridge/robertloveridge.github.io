@@ -25,9 +25,7 @@ Solutions Architect
 
 As a Solutions Architect at Gainsight, I work with new and existing clients to align Gainsight features & functionality to best support their CS strategy, driving towards achievement of desired outcomes.
 
-Clients consult me on best practices for Gainsight and I help them to define architectural and data structure to support those requirements.
-
-Aside from consulting, I also act as a Gainsight Administrator for some clients.
+As a Technical Account Manager, clients consult me on best practices for Gainsight and I help them to define architectural and data structure to support those requirements. Aside from consulting, I also act as a Gainsight Administrator for some clients.
 
 Senior Manager, Global CXM Services Operations & Training
 ------
@@ -35,9 +33,9 @@ Senior Manager, Global CXM Services Operations & Training
 
 **May 2020 - July 2021**
 
-Line Management of the training team for the Global Services department. Maintain overall quality of all training programmes, including LMS and Webinars.
+Moving into a global role, I was the line manager of the training team for the Global Services department and responsible for the maintenance and overall quality of all training programmes, including LMS and Webinars.
 
-Supporting the Operations Director with Services reporting, processes, forecasting and revenue recognition. Helping with the design and structure of Service offerings and go to market strategies.
+I also continued to support the Operations Director with Services reporting, processes, forecasting and revenue recognition. I also continued to develop and design a number of Service offerings and go to market strategies for the CXM division of Upland Software.
 
 Head of Services
 ------
@@ -47,17 +45,17 @@ Head of Services
 
 Utilising my experience with Adestra and Rant & Rave, I ran the Services team for Upland Software in EMEA. When Upland Software acquired Adestra and Rant & Rave, I was involved in the employee consultations, so I have first hand experience with detailing out organisational changes in a sensitive manner.
 
- * Managed a department with 5 teams; Technical Services, Project Management, Training, Digital Design and Insights
- * Manage the recruitment and grow the services department
- * Manage financials and key metrics
- * Provide continuous feedback to managers in my team, including annual appraisals
- * Support the growth of everyone in my team, helping them to achieve their goals and objectives
+I managed a department with 5 teams; Technical Services, Project Management, Training, Digital Design and Insights with key objectives and responsibilities being:
+
+ * Managing the financials and key metrics
+ * Providing continuous feedback to managers in my team, including annual appraisals
+ * Supporting the growth of everyone in my team, helping them to achieve their goals and objectives
  * Attain revenue goals through implementation and consultancy
- * Support development of service offerings to provide value added customer services
- * Manage customer requirements and expectations
- * Maintain overall quality of all projects and programmes
- * Provide high quality and timely services to create customer satisfaction
- * Direct and manage services partners and subcontractors
+ * Supporting development of service offerings to provide value added customer services
+ * Managing customer requirements and expectations
+ * Maintaining overall quality of all projects and programmes
+ * Providing high quality and timely services to create customer satisfaction
+ * Directing and management of services partners and subcontractors
 
  Technical Lead
 ------
@@ -342,11 +340,12 @@ I was voted Adestra's employee of the year by my fellow Adestra employees.
 * XML, XPath and XML-RPC
 * SOQL (Salesforce Object Query Language)
 * Salesforce Administration
+* Gainsight Administration
 * Project Management
 * Basecamp
 * Jira
 * Confluence
 * Presentations
-* Email Marketing
+* Email Marketing (Upland Adestra)
 * Microsoft Excel, Word and Outlook
 * Team Management
