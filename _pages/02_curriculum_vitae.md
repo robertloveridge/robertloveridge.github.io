@@ -265,6 +265,36 @@ Other topics covered:
 * Low Level Programming (assembly level language)
 * Digital Electronics
 
+Gainsight NXT Associate Administrator (Level 1)
+------
+
+**Issued August 2021**
+
+The Gainsight Associate Admin Certificate is for new Admins who are just starting their Gainsight Administration journey. Topics covered in the exam:
+
+ * Foundations of Gainsight
+ * Data Management
+ * Rules Engine
+ * User Management
+ * Reports and Dashboards (NXT & Horizon Analytics)
+ * Cockpit & Playbooks
+ * Scorecards
+ * c360 & r360
+ * Timeline
+
+Advanced Customer Success Manager Certified Professional (Level 1 & 2)
+------
+
+**Issued August 2021**
+
+An industry certification for customer sucess professionals. This course covered on the following topics:
+
+ * Understanding customer churn
+ * Identifying key CS metrics to present to your board
+ * Managing and tracking CSM productivity and effectiveness
+ * Segmenting customers and developing an effective engagement model
+ * Customer Journey Mapping
+
 Product Focus Certified Product Manager
 ------
 
