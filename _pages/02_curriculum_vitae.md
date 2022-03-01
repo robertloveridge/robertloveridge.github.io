@@ -80,7 +80,7 @@ I also supported the wider business by talking directly to clients either at the
 Main tools and technologies used:
 
  * DBeaver to access a PostgreSQL database, querying production and staging environments
- * Jira and Confluence to manage internal documentation
+ * JIRA and Confluence to manage internal documentation
  * SurveyGizmo to build survey web forms
  * Instiller email marketing platform to build email interactions
  * PowerShell to automate file processing and for API testing
@@ -101,7 +101,7 @@ I communicated releases of the product to Adestra's internal teams with monthly 
 Main tools and technologies used:
 
  * Microsoft PowerPoint to create slide decks
- * Jira to manage the product backlog and tickets
+ * JIRA to manage the product backlog and tickets
  * PeopleHR for managing my direct reports
 
 Technical Solutions Manager
@@ -124,6 +124,16 @@ Main tools and technologies used:
  * Git for source control, using 'hotfix' branches and sub-modules for regular deployments
  * PeopleHR for managing my direct reports
 
+Special Constable
+------
+**Thames Valley Police, Oxford, United Kingdom**
+
+**February 2012 – February 2014 (2 years 1 month)**
+
+I wanted to do something extra for my local community so I applied to become a Special Constable for Thames Valley Police. After passing their fitness test, medical and academic tests, I started working for them in February 2012. I had to keep up-to-date with new processes and training programmes which were all done outside of my normal work as a software developer.
+
+My Police duties involved me working closely with the local communities and organisations to maintain law and order. I was also responsible for responding to emergency calls from members of the public, such as domestic disputes and interviewing witnesses/suspects and controlling the traffic after a road accident.
+
 Technical Solutions Developer
 ------
 **Adestra Ltd, Oxford, United Kingdom**
@@ -145,16 +155,6 @@ Main tools and technologies used:
  * LaTeX for building a bespoke PDF generating system from Salesforce CRM
  * SOQL to interact with Salesforce CRM from within a custom Perl module
  * PHP to maintain an in-house ProFTPd user management tool
-
-Special Constable
-------
-**Thames Valley Police, Oxford, United Kingdom**
-
-**February 2012 – February 2014 (2 years 1 month)**
-
-I wanted to do something extra for my local community so I applied to become a Special Constable for Thames Valley Police. After passing their fitness test, medical and academic tests, I started working for them in February 2012. I had to keep up-to-date with new processes and training programmes which were all done outside of my normal work as a software developer.
-
-My Police duties involved me working closely with the local communities and organisations to maintain law and order. I was also responsible for responding to emergency calls from members of the public, such as domestic disputes and interviewing witnesses/suspects and controlling the traffic after a road accident.
 
 Production Executive
 ------
@@ -368,7 +368,7 @@ I was voted Adestra's employee of the year by my fellow Adestra employees.
 * Gainsight Administration
 * Project Management
 * Basecamp
-* Jira
+* JIRA
 * Confluence
 * Presentations
 * Email Marketing (Upland Adestra)
