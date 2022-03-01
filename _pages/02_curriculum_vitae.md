@@ -4,7 +4,7 @@ title: Curriculum Vitae
 permalink: /curriculum_vitae/
 ---
 
-Customer Support Manager at Phocas Software with 15+ years experience in customer support, solution design, product management, software development and line management of multiple teams.
+Customer Support Manager at Phocas Software with many years experience in Customer Support, Professional Serivces, Solution Design, Product Management, Software Development and line management of multiple teams.
 
 I'm highly experienced in developing custom reporting and data integrations, having worked with many organisations on delivering technical solutions to real business challenges and goals.
 

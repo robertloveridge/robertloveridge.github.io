@@ -6,7 +6,7 @@ permalink: /about/
 
 <img src="../images/me.png" alt="Robert Loveridge" style="border-radius: 50%; width: 30%; float:left; margin: 20px;">
 
-I am currently working for Phocas Software as the **Customer Support Manager in EMEA**. I have many years of experience in Professional Serivces, Solution Design, Product Management, Software Development and line management of multiple teams.
+I am currently working for Phocas Software as the **Customer Support Manager in EMEA**. I have many years of experience in Customer Support, Professional Serivces, Solution Design, Product Management, Software Development and line management of multiple teams.
 
 I have worked for Gainsight, The Customer Success Company as a Solutions Architect and prior to working at Gainsight, I was the **Head of Services at Upland Software** where I managed the department in EMEA from our Coventry office. My department had 5 teams (19 people in total) and I reported to the General Manager EMEA.
 
