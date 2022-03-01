@@ -31,9 +31,9 @@ Solutions Architect
 
 **July 2021 - March 2022 (9 months)**
 
-As a Solutions Architect at Gainsight, I work with new and existing clients to align Gainsight features & functionality to best support their CS strategy, driving towards achievement of desired outcomes.
+As a Solutions Architect at Gainsight, I worked with new and existing clients to align Gainsight features & functionality to best support their CS strategy, driving towards achievement of desired outcomes.
 
-As a Technical Account Manager, clients consult me on best practices for Gainsight and I help them to define architectural and data structure to support those requirements. Aside from consulting, I also act as a Gainsight Administrator for some clients.
+As a Technical Account Manager, clients consulted me on best practices for Gainsight and I helped them to define architectural and data structure to support those requirements. Aside from consulting, I also acted as a Gainsight Administrator for some clients.
 
 Senior Manager, Global CXM Services Operations & Training
 ------
