@@ -19,7 +19,7 @@ I enjoy mentoring, problem solving and motivating myself, which I feel plays a k
 
 Customer Support Manager, EMEA
 ------
-**Phocas Software**
+**Phocas Software, Coventry, United Kingdom**
 
 **March 2022 - Present**
 
@@ -27,7 +27,7 @@ As the Customer Support Manager I manage and coach the customer support team in 
 
 Solutions Architect
 ------
-**Gainsight**
+**Gainsight, London, United Kingdom**
 
 **July 2021 - March 2022 (9 months)**
 
@@ -37,7 +37,7 @@ As a Technical Account Manager, clients consult me on best practices for Gainsig
 
 Senior Manager, Global CXM Services Operations & Training
 ------
-**Upland Software, CXM Global**
+**Upland Software, Coventry, United Kingdom**
 
 **May 2020 - July 2021 (1 year 3 months)**
 
@@ -47,7 +47,7 @@ I also continued to support the Operations Director with Services reporting, pro
 
 Head of Services
 ------
-**Upland Software, CXM EMEA**
+**Upland Software, Coventry, United Kingdom**
 
 **March 2019 – May 2020 (1 year 3 months)**
 
