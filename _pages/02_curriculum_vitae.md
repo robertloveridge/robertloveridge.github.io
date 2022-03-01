@@ -4,7 +4,7 @@ title: Curriculum Vitae
 permalink: /curriculum_vitae/
 ---
 
-A Solutions Architect at Gainsight with 15+ years experience in solution design, product management, software development and line management of multiple teams.
+Customer Support Manager at Phocas Software with 15+ years experience in customer support, solution design, product management, software development and line management of multiple teams.
 
 I'm highly experienced in developing custom reporting and data integrations, having worked with many organisations on delivering technical solutions to real business challenges and goals.
 
@@ -17,11 +17,19 @@ I enjoy mentoring, problem solving and motivating myself, which I feel plays a k
 
 # Work Experience
 
+Customer Support Manager, EMEA
+------
+**Phocas Software**
+
+**March 2022 - Present**
+
+As the Customer Support Manager I manage and coach the customer support team in EMEA. As a team, we deliver an awesome customer experience to our customers.
+
 Solutions Architect
 ------
 **Gainsight**
 
-**July 2021 - Present**
+**July 2021 - March 2022 (9 months)**
 
 As a Solutions Architect at Gainsight, I work with new and existing clients to align Gainsight features & functionality to best support their CS strategy, driving towards achievement of desired outcomes.
 
@@ -31,7 +39,7 @@ Senior Manager, Global CXM Services Operations & Training
 ------
 **Upland Software, CXM Global**
 
-**May 2020 - July 2021**
+**May 2020 - July 2021 (1 year 3 months)**
 
 Moving into a global role, I was the line manager of the training team for the Global Services department and responsible for the maintenance and overall quality of all training programmes, including LMS and Webinars.
 
