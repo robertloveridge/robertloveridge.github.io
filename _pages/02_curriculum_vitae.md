@@ -130,12 +130,9 @@ Technical Solutions Developer
 
 **January 2008 – August 2016 (8 years 8 months)**
 
-As a software developer, I was responsible for writing bespoke reports and data integrations into our platform.
-I also helped write application code in Perl, using Catalyst.
+As a software developer, I was responsible for writing bespoke reports and data integrations into our platform. I also helped write application code in Perl, using Catalyst.
 
-On a typical day, I would write complex queries in PostgreSQL, process the results and output it into a format suitable for
-the clients needs. I learned a lot about the unix command line and became very familiar with phpPgAdmin/psql command line
-tools.
+On a typical day, I would write complex queries in PostgreSQL, process the results and output it into a format suitable for the clients needs. I learned a lot about the unix command line and became very familiar with phpPgAdmin/psql command line tools.
 
 Main tools and technologies used:
 
@@ -155,14 +152,9 @@ Special Constable
 
 **February 2012 – February 2014 (2 years 1 month)**
 
-I wanted to do something extra for my local community so I applied to become a Special Constable for Thames Valley Police.
-After passing their fitness test, medical and academic tests, I started working for them in February 2012.
-I had to keep up-to-date with new processes and training programmes which were all done outside of my normal work as a
-software developer.
+I wanted to do something extra for my local community so I applied to become a Special Constable for Thames Valley Police. After passing their fitness test, medical and academic tests, I started working for them in February 2012. I had to keep up-to-date with new processes and training programmes which were all done outside of my normal work as a software developer.
 
-My Police duties involved me working closely with the local communities and organisations to maintain law and order.
-I was also responsible for responding to emergency calls from members of the public, such as domestic disputes and
-interviewing witnesses/suspects and controlling the traffic after a road accident.
+My Police duties involved me working closely with the local communities and organisations to maintain law and order. I was also responsible for responding to emergency calls from members of the public, such as domestic disputes and interviewing witnesses/suspects and controlling the traffic after a road accident.
 
 Production Executive
 ------
@@ -170,10 +162,7 @@ Production Executive
 
 **January 2007 – January 2008 (1 year 1 month)**
 
-In 2007, Adestra split their client services team into two groups, one to help with general support queries and one to
-help with HTML email design, known as Production. I was asked to become a Production Executive after proving I had the
-ability to design email templates. Clients would provide us with old HTML templates which we would convert into 'clean'
-HTML, or a PDF file which would be worked on in Adobe Photoshop.
+In 2007, Adestra split their client services team into two groups, one to help with general support queries and one to help with HTML email design, known as Production. I was asked to become a Production Executive after proving I had the ability to design email templates. Clients would provide us with old HTML templates which we would convert into 'clean' HTML, or a PDF file which would be worked on in Adobe Photoshop.
 
 Main tools and technologies used:
 
@@ -189,9 +178,7 @@ Client Services Executive
 
 **July 2006 – January 2007 (7 months)**
 
-I worked on the support desk as a Client Services Executive where I answered questions on email marketing best practices,
-data management and HTML email design. I also provided 1st Line Technical Support for their email marketing platform,
-MessageFocus.
+I worked on the support desk as a Client Services Executive where I answered questions on email marketing best practices, data management and HTML email design. I also provided 1st Line Technical Support for their email marketing platform, MessageFocus.
 
 Main tools and technologies used:
 
@@ -206,7 +193,7 @@ Configuration Engineer
 
 **February 2006 – July 2006 (6 months)**
 
-This was my first full-time IT job where I worked in the configuration centre for Ultima Business Solutions. I was heavily involved in configuring, repairing and building various customer systems such as desktop computers, laptops and servers.
+This was my first full-time IT job where I worked in the configuration centre for Ultima Business Solutions. I was heavily involved in configuring, repairing and building various customer systems such as desktop computers, laptops and servers. This also involved lots of travel around the UK to customer sites.
 
 Training Assistant (temp)
 ------
@@ -214,7 +201,7 @@ Training Assistant (temp)
 
 **January 2006 – February 2006 (1 month)**
 
-Working in the Training department, where I enrolling police officers on courses. The database I worked with was PeopleSoft version 8. I also answered questions over the phone, helping officers with their questions on the courses that Thames Valley Police offer.
+Working in the Training department, where I was responsible for enrolling police officers on courses. The database I worked with was PeopleSoft version 8. I also answered questions over the phone, helping officers with their questions on the courses that Thames Valley Police offer.
 
 Bar Person
 ------
