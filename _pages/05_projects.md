@@ -4,8 +4,6 @@ title: Projects
 permalink: /projects/
 ---
 
-Programming Projects.
-
 ## [Notes App on GitHub](https://github.com/robertloveridge/Notes-App)
 
 Simple app that runs in a browser, allows a user to create and store notes.
