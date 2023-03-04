@@ -13,6 +13,7 @@ author:
 # Gems
 plugins:
   - jekyll-paginate
+  - jekyll-remote-theme
 
 # Others
 markdown: kramdown
@@ -24,4 +25,4 @@ exclude:
   - Gemfile.lock
   - vendor
 
-theme: jekyll-theme-cayman
+remote_theme: pages-themes/minimal@v0.2.0
