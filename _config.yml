@@ -25,4 +25,4 @@ exclude:
   - Gemfile.lock
   - vendor
 
-remote_theme: pages-themes/minima
+theme: minima
