@@ -1,6 +1,6 @@
 ---
 layout: default
-title: {{ site.name }}
+title: Welcome!
 ---
 
 <img src="../img/robert-loveridge.png" alt="Robert Loveridge" style="border-radius: 50%; width: 30%; float:left; margin: 20px;">
