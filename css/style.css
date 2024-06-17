@@ -48,15 +48,7 @@ body {
   /* Ensure the image covers the entire area */
 }
 
-/* Common Styles */
-.service, .cv {
-    color: #333;
-  }
-  
-  footer {
-    background-color: #77dd77;
-    color: #333;
-    padding: 20px 0;
-    text-align: center;
-  }
-  
+footer {
+  padding: 20px 0;
+  text-align: center;
+}  
