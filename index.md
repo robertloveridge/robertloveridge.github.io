@@ -5,7 +5,7 @@ title: Welcome!
 
 <img src="../img/robert-loveridge.png" alt="Robert Loveridge" class="profile-img">
 
-I am currently working for <a href="https://www.phocassoftware.com/">Phocas Software</a> as the **Customer Support Manager in EMEA**. I have many years of experience in Customer Support, Professional Serivces, Solution Design, Product Management, Software Development and line management of multiple teams.
+I am currently working for <a href="https://www.phocassoftware.com/">Phocas Software</a> as the **Customer Support Manager, UK**. I have many years of experience in Customer Support, Professional Serivces, Solution Design, Product Management, Software Development and line management of multiple teams.
 
 I have worked for <a href="https://www.gainsight.com/">Gainsight</a>, The Customer Success Company as a Solutions Architect and prior to working at Gainsight, I was the **Head of Services at Upland Software** where I managed the department in EMEA from our Coventry office. My department had 5 teams (19 people in total) and I reported to the General Manager EMEA.
 

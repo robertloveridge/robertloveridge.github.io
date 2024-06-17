@@ -17,13 +17,13 @@ I enjoy mentoring, problem solving and motivating myself, which I feel plays a k
 
 # Work Experience
 
-Customer Support Manager, EMEA
+Customer Support Manager, UK
 ------
 **Phocas Software, Coventry, United Kingdom**
 
 **March 2022 - Present**
 
-As the Customer Support Manager I manage and coach the customer support team in EMEA. As a team, we deliver an awesome customer experience to our customers.
+As the Customer Support Manager I manage and coach the customer support team in the UK. As a team, we deliver an awesome customer experience to our customers.
 
 Solutions Architect
 ------
