@@ -1,18 +1,23 @@
 <!DOCTYPE html>
 <html lang="en-us">
-  
-  {% include head.html %}
 
-  <body>
-    {% include page-header.html %}
+{% include head.html %}
 
-    <section class="main-content">
-      
-      {{ content }}
+<body>
+  {% include page-header.html %}
 
-      {% include page-footer.html %}
+  <!-- Main Content -->
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-md-8">
 
-    </section>
+        {{ content }}
 
-  </body>
+      </div>
+    </div>
+  </div>
+
+  {% include page-footer.html %}
+</body>
+
 </html>
