@@ -3,7 +3,7 @@ layout: default
 title: Welcome!
 ---
 
-<img src="../img/robert-loveridge.png" alt="Robert Loveridge" style="border-radius: 50%; width: 30%; float:left; margin: 20px;">
+<img src="../img/robert-loveridge.png" alt="Robert Loveridge" class="profile-img">
 
 I am currently working for <a href="https://www.phocassoftware.com/">Phocas Software</a> as the **Customer Support Manager in EMEA**. I have many years of experience in Customer Support, Professional Serivces, Solution Design, Product Management, Software Development and line management of multiple teams.
 
