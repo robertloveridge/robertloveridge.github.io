@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Robert Loveridge</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div class="toggle-container">
+        <a class="cv-link" href="curriculum_vitae.html" target="_blank" rel="noopener">
+            View My CV
+        </a>
+        <button class="toggle" id="themeToggle">Light / Dark</button>
+    </div>
+
+    <header>
+        <img src="img/robert-loveridge.png" alt="Robert Loveridge">
+        <div>
+            <h1>Robert Loveridge</h1>
+            <h2>Customer Support Manager, UK - Phocas Software</h2>
+            <p>Experienced leader in Customer Support, Services, and Software Delivery</p>
+        </div>
+    </header>
+
+    <section id="about">
+        <h2>About Me</h2>
+
+        <p>
+            I am currently working for Phocas Software as the Customer Support Manager, UK. I have many years of
+            experience in Customer Support, Professional Services, Solution Design, Product Management, Software
+            Development, and line management of multiple teams.
+        </p>
+
+        <p>
+            I have worked for Gainsight, The Customer Success Company, as a Solutions Architect, and prior to working at
+            Gainsight, I was the Head of Services at Upland Software where I managed the department in EMEA from our
+            Coventry office. My department had 5 teams (19 people in total), and I reported to the General Manager EMEA.
+        </p>
+
+        <p>
+            In a previous role (Product Management Team Lead) at Adestra, I worked with the Head of Product Management
+            and COO on the product roadmap, facilitating meetings with the commercial teams every month so they were
+            kept up to date on progress.
+        </p>
+
+        <p>
+            At Upland, my team had revenue targets to meet, and my main focus was making sure that the projects we were
+            managing were delivered on time and on budget. I acted as an escalation point for all clients who interacted
+            with the team.
+        </p>
+
+        <p>
+            I have a software development background using the Perl programming language and PostgreSQL database, along
+            with Git and Subversion for version control, and JIRA, Confluence, and BitBucket for development framework
+            and sprint planning.
+        </p>
+
+        <p>
+            When Upland Software acquired Adestra and Rant & Rave, I was involved in the employee consultations, so I
+            have first-hand experience with detailing organisational changes in a sensitive manner.
+        </p>
+
+        <p>
+            I'm highly experienced in developing custom reporting and data integrations, having worked with many
+            organisations on delivering technical solutions to real business challenges and goals.
+        </p>
+
+        <p>
+            I enjoy mentoring, problem-solving, and motivating myself, which I feel plays a key part in learning
+            programming languages and creating bespoke solutions.
+        </p>
+    </section>
+
+
+    <section id="experience">
+        <h2>Experience</h2>
+        <ul>
+            <li><b>Phocas Software</b> - Customer Support Manager, UK<br>
+                Leading the UK support team and ensuring excellent customer experiences across all channels.
+            </li>
+            <li><b>Gainsight</b> - Solutions Architect<br>
+                Partnered with clients to design and deliver customer success solutions.
+            </li>
+            <li><b>Upland Software</b> - Head of Services, EMEA<br>
+                Managed 5 teams (19 people) with revenue targets, responsible for service delivery, project success, and
+                client relationships.
+            </li>
+            <li><b>Adestra</b> - Product Management Team Lead<br>
+                Supported product roadmap planning, sprint delivery, and stakeholder communication. Employee of the Year
+                multiple times.
+            </li>
+        </ul>
+    </section>
+
+    <section id="skills">
+        <h2>Technical Skills</h2>
+        <ul>
+            <li>Perl, PostgreSQL, TSQL databases</li>
+            <li>Git, Subversion, JIRA, Confluence, BitBucket</li>
+            <li>Data integration and custom reporting development</li>
+            <li>Solution design, project management, team leadership</li>
+        </ul>
+    </section>
+
+    <section id="achievements">
+        <h2>Achievements</h2>
+        <ul>
+            <li>Voted Adestra's Employee of the Year in 2007, 2014, 2015, 2017, and 2018.</li>
+            <li>Recognised by leadership teams as a key reference point for colleagues and management.</li>
+            <li>Played a central role in company acquisitions and organisational transitions.</li>
+        </ul>
+    </section>
+
+    <section id="education">
+        <h2>Education</h2>
+        <p>
+            <b>Information Technology Practitioner (Software Development) National Diploma</b><br>
+            Henley College, Henley-on-Thames, United Kingdom<br>
+            2003 - 2005
+        </p>
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>
+            You can connect with me professionally on
+            <a href="https://www.linkedin.com/in/robertloveridge/" target="_blank" rel="noopener">
+                LinkedIn</a>, or view my
+            <a href="curriculum_vitae.html" target="_blank" rel="noopener">
+                full CV online</a>.
+        </p>
+    </section>
+
+    <footer>
+        &copy; 2025 Robert Loveridge
+    </footer>
+
+    <script>
+        const toggleBtn = document.getElementById('themeToggle');
+        toggleBtn.addEventListener('click', () => {
+            const theme = document.body.getAttribute('data-theme');
+            document.body.setAttribute('data-theme', theme === 'dark' ? 'light' : 'dark');
+        });
+    </script>
+</body>
+
+</html>
