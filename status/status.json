@@ -31,12 +31,71 @@
       "label": "Operational",
       "color": "success",
       "description": "Available friendliness capacity"
+    },
+        {
+      "name": "Human OS",
+      "status": "up",
+      "label": "Stable",
+      "color": "success",
+      "description": "Now running smoothly on caffeine and curiosity."
+    },
+    {
+      "name": "Career Engine",
+      "status": "up",
+      "label": "Operational",
+      "color": "success",
+      "description": "Continuously deploying improvements since 2003."
+    },
+    {
+      "name": "Sleep Subsystem",
+      "status": "issue",
+      "label": "Degraded",
+      "color": "warning",
+      "description": "Frequent interrupts detected - monitoring closely."
     }
   ],
   "incidents": [
     {
-      "date": "Oct 13, 2025",
+      "date": "2025",
       "description": "Left ear went rogue. Labyrinthitis."
+    },
+    {
+      "date": "2022",
+      "description": "Support Manager role initiated. Auto-alerting introduced for critical user issues (and coffee shortages)."
+    },
+    {
+      "date": "2020",
+      "description": "Global Operations mode enabled. Latency spikes caused by multiple time zones; caffeine caching implemented."
+    },
+    {
+      "date": "2018",
+      "description": "Promoted to Technical Lead. CPU usage and meeting load reached 100%."
+    },
+    {
+      "date": "1996",
+      "description": "Hip subsystem recalibrated and restored. Monitoring shows stable performance since."
+    },
+    {
+      "date": "1994",
+      "description": "Detected hip joint instability - diagnosed as Perthes disease. Entered safe mode for maintenance."
+    }
+  ],
+   "maintenance": [
+    {
+      "date": "2030",
+      "description": "Scheduled memory optimisation (forgetting a few unnecessary details)."
+    },
+    {
+      "date": "2036",
+      "description": "Hip subsystem 50-year service check - optional firmware upgrade available."
+    },
+    {
+      "date": "2050",
+      "description": "Retirement simulation scheduled. Expect reduced background process load and increased holiday mode."
+    },
+    {
+      "date": "2080",
+      "description": "Final system review and possible migration to cloud storage."
     }
   ]
 }

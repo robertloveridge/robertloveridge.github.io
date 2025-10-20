@@ -44,11 +44,18 @@
 
     <!-- Past Incidents -->
     <h3 class="mt-5 mb-3">Past Incidents</h3>
-    <ul id="incidents" class="list-group"></ul>
+    <ul id="incidents" class="list-group mb-5"></ul>
 
-    <footer class="text-center text-muted mt-5">
-      <small id="last-updated">Last updated: Loading...</small>
-    </footer>
+    <!-- Planned Maintenance Section -->
+    <h3 class="mt-5 mb-3">Planned Maintenance & Upcoming Updates</h3>
+    <p class="text-muted">These scheduled operations ensure continued uptime of the Robert Loveridge experience.</p>
+    <ul id="maintenance" class="list-group"></ul>
+
+  <footer class="text-center text-muted mt-5">
+    <small id="last-updated">Last updated: Loading...</small><br>
+    <small>System log generated automatically by <a href="https://robertloveridge.co.uk" class="text-muted text-decoration-none">RobertLoveridge.co.uk</a> — proudly maintaining 99.999% uptime since 1986.</small><br>
+    <small>© Robert Loveridge. All bugs are features.</small>
+  </footer>
   </div>
 
   <script>
@@ -83,7 +90,7 @@
           servicesDiv.appendChild(card);
         });
 
-        // Incidents
+        // Past Incidents
         const incidentsList = document.getElementById('incidents');
         incidentsList.innerHTML = '';
         data.incidents.forEach(i => {
@@ -93,13 +100,21 @@
           incidentsList.appendChild(li);
         });
 
-        // Last updated footer
-        document.getElementById('last-updated').textContent = 'Last updated: ' + new Date().toLocaleString();
+        // Planned Maintenance
+        const maintenanceList = document.getElementById('maintenance');
+        maintenanceList.innerHTML = '';
+        data.maintenance.forEach(m => {
+          const li = document.createElement('li');
+          li.className = 'list-group-item';
+          li.innerHTML = `<strong>${m.date}:</strong> ${m.description}`;
+          maintenanceList.appendChild(li);
+        });
 
-        // Update last checked time
+        // Footer update
+        document.getElementById('last-updated').textContent = 'Last updated: ' + new Date().toLocaleString();
         lastCheckedTime = new Date();
       } catch (error) {
-        document.getElementById('overall-status').textContent = 'Failed to load status data.';
+        document.getElementById('overall-status').textContent = '⚠️ Failed to load status data.';
         document.getElementById('overall-status').className = 'alert alert-danger text-center';
         console.error(error);
       }
@@ -111,27 +126,25 @@
       const now = new Date();
       const ms = now - start;
       const days = Math.floor(ms / (1000 * 60 * 60 * 24));
-      const uptime = 99.9 + Math.random() * 0.099; // pseudo-random realistic uptime
-      return `Uptime: ${uptime.toFixed(3)}% since July 23, 1986 (${days.toLocaleString()} days)`;
+      const uptime = 99.9 + Math.random() * 0.099;
+      return `Uptime: ${uptime.toFixed(3)}% since July 23, 1986 (${days.toLocaleString()} days of legendary reliability)`;
     }
 
     function updateUptime() {
       document.getElementById('uptime-badge').textContent = calculateFakeUptime('1986-07-23');
     }
 
-    // "Last checked" timer
     function updateLastChecked() {
       const now = new Date();
       const seconds = Math.floor((now - lastCheckedTime) / 1000);
       document.getElementById('last-checked').textContent = `(Last checked ${seconds} second${seconds !== 1 ? 's' : ''} ago)`;
     }
 
-    // Initialize everything
     loadStatus();
     updateUptime();
-    setInterval(loadStatus, 30000);  // refresh data every 30s
-    setInterval(updateUptime, 60000); // refresh uptime every minute
-    setInterval(updateLastChecked, 1000); // update "last checked" every second
+    setInterval(loadStatus, 30000);
+    setInterval(updateUptime, 60000);
+    setInterval(updateLastChecked, 1000);
   </script>
 </body>
 </html>
