@@ -114,7 +114,7 @@
         document.getElementById('last-updated').textContent = 'Last updated: ' + new Date().toLocaleString();
         lastCheckedTime = new Date();
       } catch (error) {
-        document.getElementById('overall-status').textContent = '⚠️ Failed to load status data.';
+        document.getElementById('overall-status').textContent = 'Failed to load status data.';
         document.getElementById('overall-status').className = 'alert alert-danger text-center';
         console.error(error);
       }
@@ -127,7 +127,7 @@
       const ms = now - start;
       const days = Math.floor(ms / (1000 * 60 * 60 * 24));
       const uptime = 99.9 + Math.random() * 0.099;
-      return `Uptime: ${uptime.toFixed(3)}% since July 23, 1986 (${days.toLocaleString()} days of legendary reliability)`;
+      return `Uptime: ${uptime.toFixed(3)}% since July 23, 1986 (${days.toLocaleString()} days)`;
     }
 
     function updateUptime() {
