@@ -1,0 +1,43 @@
+{
+  "overall": {
+    "level": "success",
+    "message": "All systems are go!"
+  },
+  "services": [
+    {
+      "name": "API Service",
+      "status": "up",
+      "label": "Operational",
+      "color": "success",
+      "description": "Responding faster than a caffeinated intern."
+    },
+    {
+      "name": "Website",
+      "status": "issue",
+      "label": "Degraded",
+      "color": "warning",
+      "description": "Images might take a coffee break before loading."
+    },
+    {
+      "name": "Email Delivery",
+      "status": "down",
+      "label": "Outage",
+      "color": "danger",
+      "description": "Emails currently on strike. Negotiations ongoing."
+    }
+  ],
+  "incidents": [
+    {
+      "date": "Oct 18, 2025",
+      "description": "Database accidentally turned into a pumpkin. Fixed after a reboot and some magic words."
+    },
+    {
+      "date": "Oct 12, 2025",
+      "description": "DNS gremlins escaped containment. Order restored."
+    },
+    {
+      "date": "Oct 3, 2025",
+      "description": "Server room lights flickered. Everyone panicked. No downtime though."
+    }
+  ]
+}
