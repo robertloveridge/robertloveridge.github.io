@@ -5,39 +5,38 @@
   },
   "services": [
     {
-      "name": "API Service",
+      "name": "Mood API",
       "status": "up",
       "label": "Operational",
       "color": "success",
-      "description": "Responding faster than a caffeinated intern."
+      "description": "Tracks overall vibe consistency"
     },
     {
-      "name": "Website",
+      "name": "Coffee Intake Service",
       "status": "issue",
       "label": "Degraded",
       "color": "warning",
-      "description": "Images might take a coffee break before loading."
+      "description": "Current caffeine levels"
     },
     {
-      "name": "Email Delivery",
-      "status": "down",
-      "label": "Outage",
-      "color": "danger",
-      "description": "Emails currently on strike. Negotiations ongoing."
+      "name": "Motivation Uptime",
+      "status": "up",
+      "label": "Operational",
+      "color": "success",
+      "description": "Monitors ambition subsystem"
+    },
+    {
+      "name": "Social Battery",
+      "status": "up",
+      "label": "Operational",
+      "color": "success",
+      "description": "Available friendliness capacity"
     }
   ],
   "incidents": [
     {
-      "date": "Oct 18, 2025",
-      "description": "Database accidentally turned into a pumpkin. Fixed after a reboot and some magic words."
-    },
-    {
-      "date": "Oct 12, 2025",
-      "description": "DNS gremlins escaped containment. Order restored."
-    },
-    {
-      "date": "Oct 3, 2025",
-      "description": "Server room lights flickered. Everyone panicked. No downtime though."
+      "date": "Oct 13, 2025",
+      "description": "Left ear went rogue. Labyrinthitis."
     }
   ]
 }
